@@ -14,7 +14,7 @@ function App() {
   }, []);
 
   const bubbles = [
-    { size: 'w-32 h-32', delay: '0s', duration: '6s', left: '10%', top: '20%', name: 'CDES' },
+    { size: 'w-32 h-32', delay: '0s', duration: '6s', left: '10%', top: '20%', name: 'SCORES' },
     { size: 'w-24 h-24', delay: '1s', duration: '8s', left: '70%', top: '15%', name: 'CDES' },
     { size: 'w-40 h-40', delay: '2s', duration: '7s', left: '20%', top: '60%', name: 'CDES' },
     { size: 'w-28 h-28', delay: '0.5s', duration: '9s', left: '80%', top: '70%', name: 'CDES' },
@@ -26,7 +26,7 @@ function App() {
   ];
 
   const links = [
-    'https://cdes.jfsteacher.fr/',
+    'https://score.jfsteacher.fr/',
     'https://cdes.jfsteacher.fr/',
     'https://cdes.jfsteacher.fr/',
     'https://cdes.jfsteacher.fr/',
