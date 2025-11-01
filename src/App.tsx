@@ -22,6 +22,7 @@ function App() {
     { size: 'w-20 h-20', delay: '1.5s', duration: '10s', left: '15%', top: '85%', name: 'CDES' },
     { size: 'w-44 h-44', delay: '2.5s', duration: '6s', left: '75%', top: '45%', name: 'CDES' },
     { size: 'w-30 h-30', delay: '1.8s', duration: '7.5s', left: '40%', top: '25%', name: 'RES' },
+    { size: 'w-26 h-26', delay: '2.2s', duration: '8.5s', left: '60%', top: '80%', name: 'NORIAPDF' },
   ];
 
   const links = [
@@ -33,6 +34,7 @@ function App() {
     'https://cdes.jfsteacher.fr/',
     'https://cdes.jfsteacher.fr/',
     'https://rechercheuai.jfsteacher.fr/',
+    'https://noriapdf.jfsteacher.fr/',
   ];
 
   const handleBubbleClick = (index: number) => {
